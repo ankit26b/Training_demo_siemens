@@ -1,2 +1,4 @@
 Hello my name is Ankit. Iam from pune
 This file is created on 16 jan 2026
+Learning git commands
+cd mkdir clone
